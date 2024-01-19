@@ -1,4 +1,4 @@
 # demoGitHub
 My first GIT Repo
-Author: Ekta Meel
+Author: Ekta Meel (ektameel@gmail.com)
 
